@@ -1,0 +1,9 @@
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV7-analiza\LV7-analiza\bin\Debug\LV7-analiza.exe.config
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV7-analiza\LV7-analiza\bin\Debug\LV7-analiza.exe
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV7-analiza\LV7-analiza\bin\Debug\LV7-analiza.pdb
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV7-analiza\LV7-analiza\obj\Debug\LV7-analiza.csprojResolveAssemblyReference.cache
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV7-analiza\LV7-analiza\obj\Debug\LV7_analiza.Properties.Resources.resources
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV7-analiza\LV7-analiza\obj\Debug\LV7-analiza.csproj.GenerateResource.Cache
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV7-analiza\LV7-analiza\obj\Debug\LV7-analiza.exe
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV7-analiza\LV7-analiza\obj\Debug\LV7-analiza.pdb
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV7-analiza\LV7-analiza\obj\Debug\LV7_analiza.Form1.resources
